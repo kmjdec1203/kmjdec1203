@@ -1,7 +1,7 @@
 ### DSM 6기 👋
 ### Android Developer 🌱
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmjdec1203a&layout=compact)](https://github.com/kmjdec1203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmjdec1203&layout=compact)](https://github.com/kmjdec1203/github-readme-stats)
 
 <!--
 **kmjdec1203/kmjdec1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
