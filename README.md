@@ -1,4 +1,4 @@
-권민정 Kweon MinJeong :crescent_moon:
+권민정 Kweon MinJeong :crescent_moon: \
 DSM 6기 👋
 #### :computer: Android Developer 🌱
 
