@@ -1,6 +1,6 @@
 권민정 Kweon MinJeong :crescent_moon: \
-DSM 6기 👋
-#### :computer: Android Developer 🌱
+DSM 6기
+#### :computer: Android 🌱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmjdec1203&layout=compact)](https://github.com/kmjdec1203/github-readme-stats)
 
